@@ -1,3 +1,14 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+
+# my_index:
+#     path: /
+#     controller : App\Controller\HomePageController::my_index
+
+
+# index:
+#     path: /home/page
+#     controller : App\Controller\HomePageController::index
+
